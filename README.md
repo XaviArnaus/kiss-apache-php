@@ -6,8 +6,8 @@ This is meant to easy the set up of a playground. Not perfect, not fancy. Just w
 
 ## Requirements
 
-1. Docker has to be installed. I use (Docker for Mac)[https://docs.docker.com/docker-for-mac/install/]
-2. (Docker compose)[https://docs.docker.com/compose/install/] (you could tweak this repo to avoid using it)
+1. Docker has to be installed. I use [Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
+2. [Docker compose](https://docs.docker.com/compose/install/) (you could tweak this repo to avoid using it)
 
 ## How to use me
 
@@ -27,7 +27,7 @@ This is meant to easy the set up of a playground. Not perfect, not fancy. Just w
   ```
   make run
   ```
-5. Place a request [http://localhost/]
+5. Place a request http://localhost/
 
 ## Random scripts?
 
