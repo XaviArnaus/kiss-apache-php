@@ -1,0 +1,11 @@
+version: "2"
+services:
+  playground:
+    image: xavi/playground
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./src:/app
+    ports:
+      - 80:80
