@@ -9,3 +9,5 @@ services:
       - ./src:/app
     ports:
       - 80:80
+    environment:
+      - ALLOW_OVERRIDE=true
